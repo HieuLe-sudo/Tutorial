@@ -1,0 +1,36 @@
+
+#follow-button{
+    display: block;
+    font-weight: bold;
+    background-color: #E60028;
+    border-radius: 10px;
+    border-color: transparent;
+}
+div.info-contact img{
+    width: 30px;
+    height: auto;
+    margin: 15px;
+}
+
+div.info-contact p{
+    margin: 15px;
+}
+
+div.seperated-line{
+    border-bottom: solid;
+    border-width: 0.5px;
+    color: gray;
+    margin: auto;
+    width: 60%;
+}
+
+div.interaction{
+    padding: 15px;
+    font-weight: bold;    
+    right: 15px;
+}
+
+#number{
+    position: relative;
+    left: 10px;
+}
